@@ -95,12 +95,12 @@ Aspiring Data Analyst | SQL | Power BI | Python | Excel
 
 ### AI Job Market Overview
 
-![Overview](1 AI JOB OVERVIEW.png)
+![Overview](overview.png)
 
 ### AI Risk & Automation Analysis
 
-![Risk Analysis](2 AI RISK ANALYSIS(3).png)
+![Risk Analysis](risk-analysis.png)
 
 ### Salary & Skill Insights
 
-![Salary Analysis](3 SALARY & SKILL INSIGHTS.png)
+![Salary Insights](salary-insights.png)
